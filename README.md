@@ -1,10 +1,10 @@
--Hi, I’m @tochy97
+# Hi, I’m @tochy97
 
--I’m interested in all aspects of computer science.
+## I’m interested in all aspects of computer science.
 
--I’m currently learning cyber secuirty focused programming and testing.
+## I’m currently learning cyber secuirty focused programming and testing.
 
--How to reach me: tochyegeonu1997@gmail.com
+# How to reach me: tochyegeonu1997@gmail.com
 
 <!---
 tochy97/tochy97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
